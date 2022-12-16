@@ -1,0 +1,15 @@
+.contact-coder {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+}
+
+.Footer footer {
+  font-size: 14px;
+  margin: 60px 10px 10px;
+}
+
+.Footer a:hover {
+  color: #05e5e2 !important;
+  text-decoration: none;
+}
